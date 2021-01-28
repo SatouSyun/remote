@@ -1,0 +1,11 @@
+diff a/remot.txt b/remot.txt	(rejected hunks)
+@@ -1,2 +1,7 @@
+ こんにちは
+-こんばんわ
+\ No newline at end of file
++<<<<<<< HEAD
++こんばんわ
++=======
++
++hello!!!!!
++>>>>>>> 0ed2696c79944d6ab09558e2c6ee068e2bdfa15e
